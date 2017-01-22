@@ -1,0 +1,17 @@
+Command-Name,Abbrev,IsRequest,Code
+Abort-Session-Request,ASR,TRUE,274
+Abort-Session-Answer,ASA,FALSE,274
+Accounting-Request,ACR,TRUE,271
+Accounting-Answer,ACA,FALSE,271
+Capabilities-Exchange-Request,CER,TRUE,257
+Capabilities-Exchange-Answer,CEA,FALSE,257
+Device-Watchdog-Request,DWR,TRUE,280
+Device-Watchdog-Answer,DWA,FALSE,280
+Disconnect-Peer-Request,DPR,TRUE,282
+Disconnect-Peer-Answer,DPA,FALSE,282
+Re-Auth-Request,RAR,TRUE,258
+Re-Auth-Answer,RAA,FALSE,258
+Session-Termination-Request,STR,TRUE,275
+Session-Termination-Answer,STA,FALSE,275
+Credit-Control-Request,CCR,TRUE,272
+Credit-Control-Answer,CCA,FALSE,272
